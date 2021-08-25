@@ -27,7 +27,7 @@
 
 ## Screenshot of Application
 
-![URL Shortener](./Assets/.url-shortener.png)
+![URL Shortener](./Assets/url-shortener.png)
 
 ## Links
 
