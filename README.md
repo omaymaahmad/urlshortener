@@ -6,6 +6,8 @@
 
 * The application has a URL validation to ensure only validated URLs are converted to short links 
 
+* Links are converted using the [Shrt Code API](https://shrtco.de/docs/)), it should be noted the API is very slow but does work! 
+
 
 ## Technology Used
 
@@ -32,6 +34,8 @@
 ## Links
 
 * [GitHub repository](https://github.com/omaymaahmad/urlshortener) 
+
+* [Deployed Link](https://omaymaahmad.github.io/urlshortener/)
 
 * [My GitHub](https://github.com/omaymaahmad)  
 
