@@ -1,13 +1,12 @@
-import { Grid } from "@material-ui/core";
-
+import Container from './components/Container';
 import './App.css';
 import Search from './components/Search';
 
 function App() {
   return (
-    <Grid className="App" container direction="column" justify="center" allignItems="center">
-    <Search/> 
-    </Grid>
+    <Container>
+        <Search/> 
+    </Container>
   );
 }
 
